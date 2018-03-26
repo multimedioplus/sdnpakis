@@ -1,0 +1,67 @@
+[09-Feb-2018 17:43:54 UTC] PHP Parse error:  syntax error, unexpected '->' (T_OBJECT_OPERATOR) in /home/sdnpakis/public_html/laravel/storage/framework/views/92b43baebd87909fd45ae50e063f7f39da260b2c.php on line 31
+[09-Feb-2018 17:52:29 UTC] PHP Fatal error:  Class 'App\Http\Controllers\Auth' not found in /home/sdnpakis/public_html/laravel/app/Http/Controllers/GuruController.php on line 16
+[09-Feb-2018 17:52:44 UTC] PHP Fatal error:  Class 'App\Auth' not found in /home/sdnpakis/public_html/laravel/app/Http/Controllers/GuruController.php on line 17
+[09-Feb-2018 17:53:01 UTC] PHP Fatal error:  Class 'App\Auth' not found in /home/sdnpakis/public_html/laravel/app/Http/Controllers/GuruController.php on line 17
+[09-Feb-2018 17:53:16 UTC] PHP Fatal error:  Class 'App\Http\Controllers\Auth' not found in /home/sdnpakis/public_html/laravel/app/Http/Controllers/GuruController.php on line 17
+[09-Feb-2018 17:53:29 UTC] PHP Fatal error:  Class 'App\Http\Controllers\Auth' not found in /home/sdnpakis/public_html/laravel/app/Http/Controllers/GuruController.php on line 17
+[09-Feb-2018 17:54:00 UTC] PHP Fatal error:  Class 'App\Auth' not found in /home/sdnpakis/public_html/laravel/app/Http/Controllers/GuruController.php on line 18
+[09-Feb-2018 18:28:46 UTC] PHP Fatal error:  Class 'App\Http\Controllers\pengumumen' not found in /home/sdnpakis/public_html/laravel/app/Http/Controllers/PublicController.php on line 12
+[09-Feb-2018 18:29:11 UTC] PHP Fatal error:  Class 'Galeri' not found in /home/sdnpakis/public_html/laravel/app/Http/Controllers/PublicController.php on line 13
+[09-Feb-2018 18:59:13 UTC] PHP Parse error:  syntax error, unexpected ';' in /home/sdnpakis/public_html/laravel/storage/framework/views/a22d01f4b92620c8db17d7bde11e0ebe5e5b2e90.php on line 245
+[09-Feb-2018 19:00:55 UTC] PHP Parse error:  syntax error, unexpected ';' in /home/sdnpakis/public_html/laravel/storage/framework/views/a22d01f4b92620c8db17d7bde11e0ebe5e5b2e90.php on line 245
+[09-Feb-2018 19:28:24 UTC] PHP Fatal error:  Class 'App\Http\Controllers\Silabus' not found in /home/sdnpakis/public_html/laravel/app/Http/Controllers/AdminController.php on line 44
+[09-Feb-2018 19:29:29 UTC] PHP Fatal error:  Class 'App\Http\Controllers\Geleri' not found in /home/sdnpakis/public_html/laravel/app/Http/Controllers/AdminController.php on line 44
+[14-Feb-2018 06:57:42 UTC] PHP Parse error:  syntax error, unexpected 'layouts' (T_STRING) in /home/sdnpakis/public_html/laravel/storage/framework/views/6b36c6b71ba3b3fc7af83343f7734fcb69900f6e.php on line 27
+[14-Feb-2018 17:44:39 UTC] PHP Parse error:  syntax error, unexpected 'use' (T_USE), expecting '{' in /home/sdnpakis/public_html/laravel/app/Http/Controllers/Auth/LoginController.php on line 9
+[14-Feb-2018 17:45:08 UTC] PHP Parse error:  syntax error, unexpected 'use' (T_USE), expecting '{' in /home/sdnpakis/public_html/laravel/app/Http/Controllers/Auth/LoginController.php on line 9
+[15-Feb-2018 01:05:36 UTC] PHP Parse error:  syntax error, unexpected 'else' (T_ELSE) in /home/sdnpakis/public_html/laravel/storage/framework/views/edcbd8809674ca21d40ab4fdc6eb33cc95cc176f.php on line 121
+[15-Feb-2018 01:07:10 UTC] PHP Parse error:  syntax error, unexpected 'else' (T_ELSE) in /home/sdnpakis/public_html/laravel/storage/framework/views/edcbd8809674ca21d40ab4fdc6eb33cc95cc176f.php on line 121
+[15-Feb-2018 01:07:19 UTC] PHP Parse error:  syntax error, unexpected 'else' (T_ELSE) in /home/sdnpakis/public_html/laravel/storage/framework/views/edcbd8809674ca21d40ab4fdc6eb33cc95cc176f.php on line 121
+[15-Feb-2018 03:25:25 UTC] PHP Parse error:  syntax error, unexpected 'return' (T_RETURN) in /home/sdnpakis/public_html/laravel/app/Http/Controllers/Auth/RegisterController.php on line 73
+[15-Feb-2018 03:58:38 UTC] PHP Fatal error:  Class 'App\Http\Controllers\user' not found in /home/sdnpakis/public_html/laravel/app/Http/Controllers/AdminController.php on line 21
+[15-Feb-2018 06:18:23 UTC] PHP Fatal error:  Class 'hash' not found in /home/sdnpakis/public_html/laravel/storage/framework/views/68a9cc656ce417a427c9ec4e8b58e9f442f864e3.php on line 45
+[15-Feb-2018 06:19:51 UTC] PHP Fatal error:  Class 'hash' not found in /home/sdnpakis/public_html/laravel/storage/framework/views/68a9cc656ce417a427c9ec4e8b58e9f442f864e3.php on line 45
+[17-Feb-2018 06:07:55 UTC] PHP Parse error:  syntax error, unexpected 'else' (T_ELSE) in /home/sdnpakis/public_html/laravel/storage/framework/views/35b31e33a6127a6a4582b3151312fbbd971f0ef8.php on line 56
+[17-Feb-2018 06:08:22 UTC] PHP Parse error:  syntax error, unexpected 'else' (T_ELSE) in /home/sdnpakis/public_html/laravel/storage/framework/views/35b31e33a6127a6a4582b3151312fbbd971f0ef8.php on line 56
+[17-Feb-2018 06:08:56 UTC] PHP Parse error:  syntax error, unexpected 'else' (T_ELSE) in /home/sdnpakis/public_html/laravel/storage/framework/views/35b31e33a6127a6a4582b3151312fbbd971f0ef8.php on line 56
+[17-Feb-2018 07:49:25 UTC] PHP Fatal error:  Class 'App\Http\Controllers\Auth' not found in /home/sdnpakis/public_html/laravel/app/Http/Controllers/SiswaController.php on line 19
+[17-Feb-2018 07:49:45 UTC] PHP Fatal error:  Class 'App\Auth' not found in /home/sdnpakis/public_html/laravel/app/Http/Controllers/SiswaController.php on line 20
+[17-Feb-2018 07:50:06 UTC] PHP Fatal error:  Class 'App\Http\Controllers\Auth' not found in /home/sdnpakis/public_html/laravel/app/Http/Controllers/SiswaController.php on line 20
+[19-Feb-2018 04:25:13 UTC] PHP Fatal error:  Class 'App\Http\Controllers\Session' not found in /home/sdnpakis/public_html/laravel/app/Http/Controllers/SiswaController.php on line 21
+[19-Feb-2018 04:46:33 UTC] PHP Parse error:  syntax error, unexpected 'else' (T_ELSE) in /home/sdnpakis/public_html/laravel/storage/framework/views/503d5e970c42d93adbbe4f6770f8bc704239f075.php on line 81
+[19-Feb-2018 05:20:19 UTC] PHP Fatal error:  Class 'session' not found in /home/sdnpakis/public_html/laravel/storage/framework/views/503d5e970c42d93adbbe4f6770f8bc704239f075.php on line 76
+[19-Feb-2018 05:36:06 UTC] PHP Fatal error:  Class 'session' not found in /home/sdnpakis/public_html/laravel/storage/framework/views/35b31e33a6127a6a4582b3151312fbbd971f0ef8.php on line 16
+[19-Feb-2018 05:37:06 UTC] PHP Fatal error:  Class 'session' not found in /home/sdnpakis/public_html/laravel/storage/framework/views/35b31e33a6127a6a4582b3151312fbbd971f0ef8.php on line 16
+[19-Feb-2018 06:20:56 UTC] PHP Parse error:  syntax error, unexpected ')', expecting variable (T_VARIABLE) or '$' in /home/sdnpakis/public_html/laravel/app/Http/Controllers/SiswaController.php on line 42
+[19-Feb-2018 06:39:18 UTC] PHP Fatal error:  Cannot redeclare App\Http\Controllers\SiswaController::baca() in /home/sdnpakis/public_html/laravel/app/Http/Controllers/SiswaController.php on line 45
+[19-Feb-2018 06:40:04 UTC] PHP Fatal error:  Cannot redeclare App\Http\Controllers\SiswaController::baca() in /home/sdnpakis/public_html/laravel/app/Http/Controllers/SiswaController.php on line 45
+[19-Feb-2018 06:40:47 UTC] PHP Fatal error:  Cannot redeclare App\Http\Controllers\SiswaController::baca() in /home/sdnpakis/public_html/laravel/app/Http/Controllers/SiswaController.php on line 45
+[19-Feb-2018 06:41:06 UTC] PHP Fatal error:  Cannot redeclare App\Http\Controllers\SiswaController::baca() in /home/sdnpakis/public_html/laravel/app/Http/Controllers/SiswaController.php on line 45
+[19-Feb-2018 06:41:08 UTC] PHP Fatal error:  Cannot redeclare App\Http\Controllers\SiswaController::baca() in /home/sdnpakis/public_html/laravel/app/Http/Controllers/SiswaController.php on line 45
+[19-Feb-2018 06:41:08 UTC] PHP Fatal error:  Cannot redeclare App\Http\Controllers\SiswaController::baca() in /home/sdnpakis/public_html/laravel/app/Http/Controllers/SiswaController.php on line 45
+[19-Feb-2018 06:50:41 UTC] PHP Fatal error:  Class 'App\Http\Controllers\Buku' not found in /home/sdnpakis/public_html/laravel/app/Http/Controllers/SiswaController.php on line 55
+[19-Feb-2018 06:50:58 UTC] PHP Fatal error:  Class 'Buku' not found in /home/sdnpakis/public_html/laravel/app/Http/Controllers/SiswaController.php on line 56
+[19-Feb-2018 07:44:16 UTC] PHP Parse error:  syntax error, unexpected 'else' (T_ELSE) in /home/sdnpakis/public_html/laravel/storage/framework/views/35b31e33a6127a6a4582b3151312fbbd971f0ef8.php on line 106
+[19-Feb-2018 07:57:39 UTC] PHP Parse error:  syntax error, unexpected '{' in /home/sdnpakis/public_html/laravel/storage/framework/views/35b31e33a6127a6a4582b3151312fbbd971f0ef8.php on line 100
+[19-Feb-2018 07:58:26 UTC] PHP Parse error:  syntax error, unexpected 'layouts' (T_STRING) in /home/sdnpakis/public_html/laravel/storage/framework/views/35b31e33a6127a6a4582b3151312fbbd971f0ef8.php on line 114
+[19-Feb-2018 07:58:40 UTC] PHP Parse error:  syntax error, unexpected 'layouts' (T_STRING) in /home/sdnpakis/public_html/laravel/storage/framework/views/35b31e33a6127a6a4582b3151312fbbd971f0ef8.php on line 114
+[19-Feb-2018 08:41:16 UTC] PHP Parse error:  syntax error, unexpected 'else' (T_ELSE) in /home/sdnpakis/public_html/laravel/storage/framework/views/35b31e33a6127a6a4582b3151312fbbd971f0ef8.php on line 44
+[19-Feb-2018 08:41:37 UTC] PHP Parse error:  syntax error, unexpected 'else' (T_ELSE) in /home/sdnpakis/public_html/laravel/storage/framework/views/35b31e33a6127a6a4582b3151312fbbd971f0ef8.php on line 44
+[19-Feb-2018 08:47:52 UTC] PHP Parse error:  syntax error, unexpected 'endforeach' (T_ENDFOREACH) in /home/sdnpakis/public_html/laravel/storage/framework/views/35b31e33a6127a6a4582b3151312fbbd971f0ef8.php on line 113
+[20-Feb-2018 04:16:58 UTC] PHP Fatal error:  Class 'App\Http\Controllers\pengumuman' not found in /home/sdnpakis/public_html/laravel/app/Http/Controllers/GuruController.php on line 18
+[20-Feb-2018 04:17:23 UTC] PHP Fatal error:  Class 'App\Http\Controllers\pengumuman' not found in /home/sdnpakis/public_html/laravel/app/Http/Controllers/GuruController.php on line 19
+[20-Feb-2018 05:15:42 UTC] PHP Fatal error:  Class 'App\Http\Controllers\kd' not found in /home/sdnpakis/public_html/laravel/app/Http/Controllers/GuruController.php on line 275
+[20-Feb-2018 05:16:18 UTC] PHP Fatal error:  Class 'App\Http\Controllers\kd' not found in /home/sdnpakis/public_html/laravel/app/Http/Controllers/GuruController.php on line 275
+[20-Feb-2018 05:39:43 UTC] PHP Fatal error:  Class 'App\Http\Controllers\Kd' not found in /home/sdnpakis/public_html/laravel/app/Http/Controllers/GuruController.php on line 275
+[21-Feb-2018 06:11:18 UTC] PHP Parse error:  syntax error, unexpected '->' (T_OBJECT_OPERATOR) in /home/sdnpakis/public_html/laravel/storage/framework/views/0c1ce715856f0fffeda54692b42a556474b85fde.php on line 52
+[21-Feb-2018 06:12:34 UTC] PHP Parse error:  syntax error, unexpected 'echo' (T_ECHO) in /home/sdnpakis/public_html/laravel/storage/framework/views/0c1ce715856f0fffeda54692b42a556474b85fde.php on line 52
+[24-Feb-2018 04:03:26 UTC] PHP Fatal error:  Class 'App\Http\Controllers\nilaiUH' not found in /home/sdnpakis/public_html/laravel/app/Http/Controllers/GuruController.php on line 323
+[24-Feb-2018 04:39:12 UTC] PHP Fatal error:  Cannot redeclare App\Http\Controllers\GuruController::updateKd() in /home/sdnpakis/public_html/laravel/app/Http/Controllers/GuruController.php on line 345
+[24-Feb-2018 04:39:48 UTC] PHP Parse error:  syntax error, unexpected end of file, expecting function (T_FUNCTION) in /home/sdnpakis/public_html/laravel/app/Http/Controllers/GuruController.php on line 369
+[24-Feb-2018 05:25:00 UTC] PHP Parse error:  syntax error, unexpected '->' (T_OBJECT_OPERATOR) in /home/sdnpakis/public_html/laravel/storage/framework/views/92eeaaa5979636c39b52ec33e7d320af0eac258a.php on line 54
+[24-Feb-2018 06:08:05 UTC] PHP Parse error:  syntax error, unexpected '{' in /home/sdnpakis/public_html/laravel/routes/web.php on line 71
+[24-Feb-2018 06:08:18 UTC] PHP Fatal error:  Class 'App\Http\Controllers\Analisisbd' not found in /home/sdnpakis/public_html/laravel/app/Http/Controllers/GuruController.php on line 366
+[24-Feb-2018 06:29:51 UTC] PHP Fatal error:  Class 'App\Http\Controllers\Analisisbd' not found in /home/sdnpakis/public_html/laravel/app/Http/Controllers/GuruController.php on line 366
+[24-Feb-2018 06:30:07 UTC] PHP Fatal error:  Class 'App\Http\Controllers\Analisisbd' not found in /home/sdnpakis/public_html/laravel/app/Http/Controllers/GuruController.php on line 366
+[24-Feb-2018 06:30:09 UTC] PHP Fatal error:  Class 'App\Http\Controllers\Analisisbd' not found in /home/sdnpakis/public_html/laravel/app/Http/Controllers/GuruController.php on line 366
+[24-Feb-2018 07:31:51 UTC] PHP Fatal error:  Class 'App\Analisisuh2' not found in /home/sdnpakis/public_html/laravel/app/Http/Controllers/GuruController.php on line 453
